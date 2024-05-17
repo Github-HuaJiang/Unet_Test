@@ -14,4 +14,6 @@ Before visualization, performing some data processing, such as removing outliers
 
 ![code for removing outliers](https://github.com/Github-HuaJiang/Unet_Test/blob/main/snapshot/visualization.png)
 
-## Training Step(Colab)
+## Usage(Colab)
+### Download
+First download the project on the Colab. Then import the project and install corresponding libraries through following command lines.
