@@ -17,4 +17,10 @@ Before visualization, performing some data processing, such as removing outliers
 ## Usage(Colab)
 ### Download
 First download the project on the Colab. Then import the project and install corresponding libraries through following command lines.
-![command lines]()
+![command lines](https://github.com/Github-HuaJiang/Unet_Test/blob/main/snapshot/command%20line.png)
+
+### Training
+!python train.py
+
+### Predicting
+!python predict_test.py
