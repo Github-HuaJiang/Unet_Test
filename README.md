@@ -17,3 +17,4 @@ Before visualization, performing some data processing, such as removing outliers
 ## Usage(Colab)
 ### Download
 First download the project on the Colab. Then import the project and install corresponding libraries through following command lines.
+![command lines]()
