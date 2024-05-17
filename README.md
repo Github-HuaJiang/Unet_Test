@@ -12,4 +12,6 @@ b. set the hyperparemeter **pos_weight=100** (used for solving the class imbalan
 
 Before visualization, performing some data processing, such as removing outliers at both ends of each channel of the image or mask
 
-1[code for removing outliers]()
+![code for removing outliers](https://github.com/Github-HuaJiang/Unet_Test/blob/main/snapshot/visualization.png)
+
+## Training Step(Colab)
